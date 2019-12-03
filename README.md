@@ -51,9 +51,10 @@
 <p>&nbsp;</p>
 <h1 dir="ltr">EDUCATION AND Certification&nbsp;</h1>
 <p>&nbsp;</p>
-<h1 dir="ltr">San Diego City College, San Diego CA</p>
+<h1 dir="ltr">Associate of Arts</h1>
+<h1 dir="ltr">San Diego City College, San Diego CA&nbsp;</h1>
 <p dir="ltr">&nbsp;Major in Global health</p>
-<p dir="ltr">Associate</p>
+<p>&nbsp;</p>
 <p dir="ltr">Grossmont College, El Cajon CA 2017</p>
 <p dir="ltr">&nbsp;Major in Global Health</p>
 <p dir="ltr">&nbsp;Minor in University Studies [3.4] GPA</p>
