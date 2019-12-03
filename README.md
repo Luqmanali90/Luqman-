@@ -1,4 +1,5 @@
-<p dir="ltr">Luqman Ali</p>
+<p dir="ltr"><strong>Luqman Ali</strong></p>
+<p>&nbsp;</p>
 <p dir="ltr">1412 Portland Ave Minneapolis MN 55404</p>
 <p dir="ltr">619-452-9134</p>
 <h1 dir="ltr">Profile&nbsp;</h1>
@@ -13,8 +14,8 @@
 <p dir="ltr">A go getter&nbsp;</p>
 </li>
 </ul>
-<p><br /><br /></p>
-<p dir="ltr">EXPERIENCE</p>
+<p><br /><br /><br /></p>
+<p dir="ltr"><strong>EXPERIENCE</strong></p>
 <p>&nbsp;</p>
 <p dir="ltr">Owner Operator, Madina Market, February 2012-May 2015</p>
 <p dir="ltr">san diego , CA</p>
@@ -52,8 +53,7 @@
 <h1 dir="ltr">EDUCATION AND Certification&nbsp;</h1>
 <p>&nbsp;</p>
 <h1 dir="ltr">Associate of Arts</h1>
-<h1 dir="ltr">&nbsp;</h1>
-<p>San Diego City College, San Diego CA</p>
+<h1 dir="ltr">San Diego City College, San Diego CA&nbsp;</h1>
 <p dir="ltr">&nbsp;Major in Global health</p>
 <p>&nbsp;</p>
 <p dir="ltr">Grossmont College, El Cajon CA 2017</p>
