@@ -50,13 +50,12 @@
 </ul>
 <p>&nbsp;</p>
 <h1 dir="ltr">EDUCATION AND Certification&nbsp;</h1>
-<p><br /><br /></p>
+<p>&nbsp;</p>
 <h1 dir="ltr">Global Health, San Diego City College, San Diego CA&nbsp;</h1>
-<p dir="ltr">Major in Global health</p>
+<p dir="ltr">&nbsp;Major in Global health</p>
 <p dir="ltr">Associate</p>
-<p dir="ltr">University Studies , Grossmont College, El Cajon CA United States 2017</p>
-<p dir="ltr">Major in Global Health</p>
-<p dir="ltr">Minor in University Studies</p>
-<p dir="ltr">[3.4] GPA</p>
+<p dir="ltr">Grossmont College, El Cajon CA 2017</p>
+<p dir="ltr">&nbsp;Major in Global Health</p>
+<p dir="ltr">&nbsp;Minor in University Studies [3.4] GPA</p>
 <p dir="ltr">CompTIA ITF+</p>
 <p>&nbsp;</p>
