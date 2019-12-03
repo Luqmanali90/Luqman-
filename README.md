@@ -51,7 +51,7 @@
 <p>&nbsp;</p>
 <h1 dir="ltr">EDUCATION AND Certification&nbsp;</h1>
 <p>&nbsp;</p>
-<h1 dir="ltr">Global Health, San Diego City College, San Diego CA&nbsp;</h1>
+<h1 dir="ltr">San Diego City College, San Diego CA</p>
 <p dir="ltr">&nbsp;Major in Global health</p>
 <p dir="ltr">Associate</p>
 <p dir="ltr">Grossmont College, El Cajon CA 2017</p>
